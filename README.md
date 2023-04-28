@@ -1,7 +1,7 @@
-¡Bienvenidos a mi GitHub!
+Welcome to my GitHub!
 
-Soy un programador front-end apasionado por la tecnología y en constante aprendizaje. Actualmente, me encuentro enfocado en el estudio y la práctica de React.js, una de las bibliotecas de JavaScript más populares en la actualidad.
+I am a front-end programmer who is passionate about technology and constantly learning. Currently, I am focused on the study and practice of React.js, one of the most popular JavaScript libraries today.
 
-Además, cuento con sólidos conocimientos en Java gracias a mi formación académica en la UTN. Esta combinación de habilidades me permite desarrollar soluciones web con una visión integral y un enfoque en la usabilidad y la experiencia del usuario.
+In addition, I have solid knowledge in Java thanks to my academic training at UTN. This combination of skills allows me to develop web solutions with a comprehensive vision and a focus on usability and user experience.
 
-En mi GitHub encontrarás proyectos que reflejan mi dedicación y compromiso con la calidad y la innovación en el desarrollo front-end. ¡Explora mi perfil!
+On my GitHub you will find projects that reflect my dedication and commitment to quality and innovation in front-end development. Explore my proyects!
