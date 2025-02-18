@@ -1,1 +1,1 @@
-Ux Developer at Making sense, with 3 years of experience.
+Ux Developer at Making sense, with 3 years of experience being Frontend Dev.
